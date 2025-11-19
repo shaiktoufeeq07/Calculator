@@ -16,14 +16,14 @@ public class CalciImplementation implements Calci{
 
 	@Override
 	public int mul(int a, int b) {
-		// TODO Auto-generated method stub
-		return 0;
+		 int d = a*b;
+		 return d;
 	}
 
 	@Override
 	public double div(int a, int b) {
-		// TODO Auto-generated method stub
-		return 0;
+		 int c =a/b;
+		 return c;
 	}
 
 }
