@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 2025/11/19-17:43:50.031 60dc Creating DB C:\Users\nikit\OneDrive\Documents\Calculator\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Extension Rules since it was missing.
 2025/11/19-17:43:50.038 60dc Reusing MANIFEST C:\Users\nikit\OneDrive\Documents\Calculator\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Extension Rules/MANIFEST-000001
+=======
+2025/11/17-18:11:48.715 55e4 Creating DB C:\TEAMMEMBER\Calculator\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Extension Rules since it was missing.
+2025/11/17-18:11:48.730 55e4 Reusing MANIFEST C:\TEAMMEMBER\Calculator\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Extension Rules/MANIFEST-000001
+>>>>>>> af8954ed4e34075bd118ec703890d52763893e08

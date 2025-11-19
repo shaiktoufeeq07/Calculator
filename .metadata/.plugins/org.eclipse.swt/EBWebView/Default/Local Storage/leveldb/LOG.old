@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 2025/11/19-18:10:31.318 4fec Reusing MANIFEST C:\Users\nikit\OneDrive\Documents\Calculator\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Local Storage\leveldb/MANIFEST-000001
 2025/11/19-18:10:31.406 4fec Recovering log #3
 2025/11/19-18:10:31.411 4fec Reusing old log C:\Users\nikit\OneDrive\Documents\Calculator\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Local Storage\leveldb/000003.log 
+=======
+2025/11/18-19:27:02.362 75c0 Reusing MANIFEST C:\TEAMMEMBER\Calculator\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Local Storage\leveldb/MANIFEST-000001
+2025/11/18-19:27:02.377 75c0 Recovering log #3
+2025/11/18-19:27:02.379 75c0 Reusing old log C:\TEAMMEMBER\Calculator\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Local Storage\leveldb/000003.log 
+>>>>>>> af8954ed4e34075bd118ec703890d52763893e08

@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 2025/11/19-18:11:02.124 1088 Reusing MANIFEST C:\Users\nikit\OneDrive\Documents\Calculator\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Session Storage/MANIFEST-000001
 2025/11/19-18:11:02.133 1088 Recovering log #3
 2025/11/19-18:11:02.138 1088 Reusing old log C:\Users\nikit\OneDrive\Documents\Calculator\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Session Storage/000003.log 
+=======
+2025/11/18-19:27:07.990 5390 Reusing MANIFEST C:\TEAMMEMBER\Calculator\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Session Storage/MANIFEST-000001
+2025/11/18-19:27:07.991 5390 Recovering log #3
+2025/11/18-19:27:07.993 5390 Reusing old log C:\TEAMMEMBER\Calculator\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Session Storage/000003.log 
+>>>>>>> af8954ed4e34075bd118ec703890d52763893e08
